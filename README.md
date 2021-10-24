@@ -18,6 +18,12 @@
 
 ![](_doc/markdown-example.png)
 
+![](_doc/mac-example.png)
+
+![](_doc/mac-example2.png)
+
+![](_doc/menu.png)
+
 ## 主题的一些属性
 
 | 属性    | 备注             | 实例图片(非主题图片)                 |

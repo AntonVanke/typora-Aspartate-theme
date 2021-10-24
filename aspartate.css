@@ -230,6 +230,11 @@ sup.md-footnote {
     font-size: 0.95rem;
 }
 
+/*Mac 的内容*/
+#toc-dropmenu.open {
+    background: var(--code-block-bg-color);
+}
+
 /*引用*/
 blockquote {
     border: 0 solid var(--as-blockquote-border-color);
