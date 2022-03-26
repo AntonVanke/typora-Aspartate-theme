@@ -295,6 +295,7 @@ input[type="checkbox"]:before {
 
 input[type="checkbox"] + * {
     margin-left: 10px;
+    padding-top: 3px;
 }
 
 input[type="checkbox"]:after {
@@ -497,7 +498,7 @@ pre {
 }
 
 /*代码块*/
-.md-fences {
+.md-fences, .auto-suggest-for-fences {
     background-color: var(--code-block-bg-color);
 }
 
@@ -544,7 +545,7 @@ pre {
 }
 
 .cm-s-inner span.cm-comment {
-    color: #41535b
+    color: #52707b
 }
 
 .cm-s-inner span.cm-string, .cm-s-inner span.cm-string-2 {
