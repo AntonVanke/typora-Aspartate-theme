@@ -205,7 +205,6 @@ mark {
     border: .1rem solid rgba(0, 0, 0, .1);
     border-radius: 0.4rem;
     font-family: var(--as-font-family-monospace);
-    font-size: 0.95rem;
     padding: 0.1rem;
 }
 
