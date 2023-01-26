@@ -1,4 +1,10 @@
 :root {
+    /*
+    * Substitute black search background for blue
+    */
+    --select-text-bg-color:#4a89dc;
+    --search-select-bg-color: #428bca;   
+ 
     /**
     * 系统变量
     */
